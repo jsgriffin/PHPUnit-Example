@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	> 
+ 
+<channel> 
+	<title>idio Platform</title> 
+	<atom:link href="http://idioplatform.com/feed/" rel="self" type="application/rss+xml" /> 
+	<link>http://idioplatform.com</link> 
+	<description>Enterprise Content Curation</description> 
+	<lastBuildDate>Tue, 10 May 2011 15:17:07 +0000</lastBuildDate> 
+	<language>en</language> 
+	<sy:updatePeriod>hourly</sy:updatePeriod> 
+	<sy:updateFrequency>1</sy:updateFrequency> 
+	
+		<item> 
+		<title>Slim.Fast Digital Magazine</title> 
+		<link>http://idioplatform.com/2011/05/slim-fast-digital-magazine/</link> 
+		<comments>http://idioplatform.com/2011/05/slim-fast-digital-magazine/#comments</comments> 
+		<pubDate>Tue, 10 May 2011 15:15:54 +0000</pubDate> 
+		<dc:creator>Andrew Davies</dc:creator> 
+				<category><![CDATA[Client Spotlight]]></category> 
+		<category><![CDATA[Content Marketing]]></category> 
+		<category><![CDATA[clients]]></category> 
+		<category><![CDATA[CMS]]></category> 
+		<category><![CDATA[CRM]]></category> 
+		<category><![CDATA[digital magazine]]></category> 
+		<category><![CDATA[eCRM]]></category> 
+		<category><![CDATA[Slim.Fast]]></category> 
+		<category><![CDATA[Slim.Fast magazine]]></category> 
+		<category><![CDATA[slimfast]]></category> 
+		<category><![CDATA[Unilever]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=3268</guid> 
+		<description><![CDATA[Client Spotlight In late 2009, we were engaged by Unilever to work with Slim.Fast as they repositioned themselves as an influential voice in the social media sphere, as part of their digital strategy for 2010. With Unilever&#8217;s digital marketing agency, TMW, taking a lead on strategy, we planned a content marketing project using idio&#8217;s platform [...]]]></description> 
+			<content:encoded><![CDATA[<h4>Client Spotlight</h4> 
+<p>In late 2009, we were engaged by Unilever to work with Slim.Fast as they repositioned themselves as an influential voice in the social media sphere, as part of their digital strategy for 2010. With Unilever&#8217;s digital marketing agency, <a href="http://tmw.co.uk">TMW</a>, taking a lead on strategy, we planned a content marketing project using idio&#8217;s platform that would improve Slim.Fast’s search engine visibility, site engagement and visitor retention. Among our objectives were an increase in conversion to product sign-up, and the publication of higher volumes of relevant and shareable content. As a result of the overall project, TMW doubled the number of registrants from the last years, in just three months. The project received a prize under <a href="http://idioplatform.com/2011/03/well-thats-nice-idio-in-the-direct-marketing-association-awards/">Best Data Strategy</a> category at the Direct Marketing Association Awards.</p> 
+<p>At the DMA awards, TMW reported that &#8220;<em>We got more registrants in three months than the last three years! 55,000 signed up, 90% converting instantly. eCRM achieved 32% CTR (average 23%)&#8221;.</em></p> 
+<p><img class="aligncenter size-full wp-image-3362" title="SlimFast " src="http://idioplatform.com/wp-content/uploads/2011/05/SlimFast-screenshots.jpg" alt="" width="581" height="230" /><span id="more-3268"></span></p> 
+<h4>The Platform</h4> 
+<p>idio&#8217;s Platform was deployed to:</p> 
+<ul> 
+<li>aggregate, analyse, and categorize the content from multiple sources</li> 
+<li>track all user interactions</li> 
+<li>analyse for preference data, and integrated to Unilever CRM</li> 
+<li>power on-site and email content personalization for every user</li> 
+</ul> 
+<h4>The Product</h4> 
+<p>We produced a branded, digital content proposition, dubbed the “<a title="Slim.Fast Magazine" href="http://magazine.slimfast.co.uk/" target="_blank">Slim.Fast Magazine</a>”: a platform of brand-authored content, expert articles, and aggregation from a select blogger network. With weight loss, fitness, healthy eating, and lifestyle content published daily, delivery is integrated with Unilever’s CRM system to personalize the content selection for each user. Personalized monthly emails are then distributed by TMW to registered users to retain engagement. Visitors are provided with limited article access and funnelled to registration where Slim.Fast develops a stronger relationship with the user around their dieting aims and goals. All content is easily shareable across major social platforms and integrated with Facebook OpenGraph, and reader-submitted articles are encouraged.</p> 
+<h4>The Process</h4> 
+<p>We created Brand Persona and Moderation Guidelines to define Slim.Fast’s online personality and voice. We then reached out to our network to recruit relevant and quality bloggers, happy to be republished by Slim.Fast. We deployed idio’s platform to automatically aggregate and categorise the blogger’s content, and employed idio’s automatic moderation process for first-stage filtering. We deployed an interaction tracking system, providing detailed behaviour and preference data to Slim.Fast’s CRM. This was integrated with Slim.Fast’s email delivery system to provide automated content feeds for predefined email segments. We also delivered a turnkey solution, including ongoing automated and manual moderation, issue management, server hardware architecture, and system administration.</p> 
+<p><a rel="attachment wp-att-3399" href="http://idioplatform.com/2011/05/slim-fast-digital-magazine/untitled/"><img class="size-full wp-image-3399 alignleft" title="Facebook widget" src="http://idioplatform.com/wp-content/uploads/2011/05/Untitled.png" alt="" width="309" height="376" /></a></p> 
+<h5>Benefits</h5> 
+<p>As well as the headline stats quoted above, the project has increased the reach of Slim.Fast&#8217;s content, improved the depth of customer relationships, increased traffic from natural search, and increased customer advocacy through social media channels. In addition, content publication is much more efficient, through the curated content approach.</p> 
+<p><em>On this project we collaborated with <a href="http://www.ogilvy.co.uk/">Oglivy</a>, <a href="http://www.tmw.co.uk/">TMW</a>, <a href="telligent.com">Telligent</a>, and <a href="http://www.traction-software.co.uk/">Traction</a>.</em></p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/05/slim-fast-digital-magazine/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>There are no media sectors anymore</title> 
+		<link>http://idioplatform.com/2011/05/there-are-no-media-sectors-anymore/</link> 
+		<comments>http://idioplatform.com/2011/05/there-are-no-media-sectors-anymore/#comments</comments> 
+		<pubDate>Mon, 09 May 2011 14:54:54 +0000</pubDate> 
+		<dc:creator>Andrew Davies</dc:creator> 
+				<category><![CDATA[Book Publishing]]></category> 
+		<category><![CDATA[Content Marketing]]></category> 
+		<category><![CDATA[Magazine]]></category> 
+		<category><![CDATA[Newspapers]]></category> 
+		<category><![CDATA[b2b media]]></category> 
+		<category><![CDATA[consumer media]]></category> 
+		<category><![CDATA[media convergence]]></category> 
+		<category><![CDATA[media fragmentation]]></category> 
+		<category><![CDATA[media industry]]></category> 
+		<category><![CDATA[transmedia]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=1811</guid> 
+		<description><![CDATA[Whilst looking at the navigation structure of The Media Briefing (a client), I’ve been realising how obsolete media sector categorisations are. They really describe where an organisation used to be, or perhaps where the majority of revenues come from at the moment. But, when you look under the skin of most media companies, there is a [...]]]></description> 
+			<content:encoded><![CDATA[<p><a rel="attachment wp-att-3287" href="http://idioplatform.com/2011/05/there-are-no-media-sectors-anymore/transmedia/"><img class="alignleft size-medium wp-image-3287" title="Transmedia" src="http://idioplatform.com/wp-content/uploads/2011/05/Transmedia-300x296.jpg" alt="" width="300" height="296" /></a>Whilst looking at the navigation structure of <a title="The Media Briefing" href="http://www.themediabriefing.com/">The Media Briefing</a> (a client), I’ve been realising how obsolete media sector categorisations are. They really describe where an organisation used to be, or perhaps where the majority of revenues come from at the moment.</p> 
+<p>But, when you look under the skin of most media companies, there is a recognition that the past is not the future. The historical industry categories become less relevant, as media businesses become ‘transmedia’. And this isn’t just about all media channels going online. The entire spectrum is up for grabs.</p> 
+<blockquote><p>The history of media is a story of fragmentation of packaging.<span id="more-1811"></span></p></blockquote> 
+<p>Every type needed a different packaging (medium), which was formed, based on the requirements of that type of content. But digital distribution, and a huge rise in media consumption, has levelled and then merged the playing fields.</p> 
+<blockquote><p>The shift that has occurred is from a focus on the product packaging, to a focus on the audience attention and value.</p></blockquote> 
+<p>I don’t mind if I read news via Twitter, The Times, or the latest Wikileaks data release. I don’t mind if my (future) children are educated by a book, an interactive iPad game, or an online education community. When the packaging becomes this meaningless, we really do see a customer-focused media environment. But first we see a landgrab, as every media organisation realises that they are not competing with their own sector; that newspapers are competing with social networks; that book publishers are competing with online communities and gaming sites (and laggards end up just &#8220;competing&#8221; with consumer behaviour &#8211; not a good thing to compete against).</p> 
+<p>But what should be most worrying to publishers, is not the fact that they compete with all other publishers now, but that every other company is now a publisher too! And many publishers are stretching beyond publishing in an effort to create more robust revenue streams for the future.<!--more--></p> 
+<h4>Examples</h4> 
+<p>This trend is by no means new, but to underline with some more recent examples:</p> 
+<ul> 
+<li><a title="The Guardian" href="http://www.guardian.co.uk/media/2011/mar/04/trinity-mirror-sly-bailey-apps-web">Trinity Mirror</a> are looking to paid-for apps, web design and PR services to generate income</li> 
+<li><a title="Mashable" href="http://mashable.com/2010/10/19/first-look-starbucks-digital-network-is-here/">Starbucks</a> &#8216;curating own exclusive content network&#8217; called SDN</li> 
+<li><a title="eMediaVitals" href="http://emediavitals.com/content/gawker-follow-more-tv-oriented-business-model">Gawker</a> moving past the blog format as TV, magazines and the net merge</li> 
+<li><a title="Clickz" href="http://www.clickz.com/clickz/news/1722379/meredith-expands-mobile-marketing-offering-hyperfactory-acquisition">Meredith</a> has been building a powerful marketing services division, including mobile design &amp; build</li> 
+<li><a title="Forbes" href="http://blogs.forbes.com/oliverchiang/2010/08/25/book-publisher-harpercollins-releases-kids-iphone-apps/">HarperCollins</a> is releasing iOs apps for children that combine games and book content</li> 
+<li>Under its Guardian Books division, <a title="Guardian" href="http://www.guardian.co.uk/gnm-press-office/guardian-books-publishes-wikileaks-book">The Guardian</a> published the Wikileaks book, using input from key newspaper journalists</li> 
+</ul> 
+<p>Special purpose tools are becoming absorbed into an all purpose delivery channel (the web), and now that is having an effect on changing each special purpose tool&#8217;s definition completely (think iTunes: music, podcasts, videos, applications, books&#8230;). Whoever builds consumer attention, wins, regardless of their historic sector.</p> 
+<p>The key factors in successful publishing seem to be (perhaps as they have always really been) the following, in order of importance:</p> 
+<ol> 
+<li>Audience &#8211; do you have an audience that trusts and engages with your content?</li> 
+<li>Brand &#8211; does your brand stand out, and resonate with your audience?</li> 
+<li>Content &#8211; does your content market itself to your audience (is it findable, shareable and useful)?</li> 
+</ol> 
+<p>Continuing to define your product by its packaging may be hurting your future more than you know.</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/05/there-are-no-media-sectors-anymore/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>Guinness iAd</title> 
+		<link>http://idioplatform.com/2011/05/guinness-iad/</link> 
+		<comments>http://idioplatform.com/2011/05/guinness-iad/#comments</comments> 
+		<pubDate>Mon, 09 May 2011 11:30:04 +0000</pubDate> 
+		<dc:creator>Chris Simpson</dc:creator> 
+				<category><![CDATA[Client Spotlight]]></category> 
+		<category><![CDATA[Content Marketing]]></category> 
+		<category><![CDATA[iPad]]></category> 
+		<category><![CDATA[iPhone]]></category> 
+		<category><![CDATA[Personalisation]]></category> 
+		<category><![CDATA[diageo]]></category> 
+		<category><![CDATA[event recommendation]]></category> 
+		<category><![CDATA[guinness]]></category> 
+		<category><![CDATA[iAd]]></category> 
+		<category><![CDATA[location]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=3266</guid> 
+		<description><![CDATA[idio are pleased to be part of the team behind the new iAd for Guinness, reputed to be the largest campaign so far in Europe, for it&#8217;s &#8220;more life in the dark&#8221; message. TMW created the campaign as part of their ongoing digital marketing remit. Paul Cornell, marketing manager, for Guinness at Diageo GB, explains: [...]]]></description> 
+			<content:encoded><![CDATA[<p><a rel="attachment wp-att-3282" href="http://idioplatform.com/2011/05/guinness-iad/guinness-logo/"><img class="size-medium wp-image-3282 alignleft" title="guinness-logo" src="http://idioplatform.com/wp-content/uploads/2011/05/guinness-logo-300x192.png" alt="" width="300" height="192" /></a>idio are pleased to be part of the team behind the new iAd for Guinness, reputed to be the largest campaign so far in Europe, for it&#8217;s &#8220;more life in the dark&#8221; message. TMW <a title="The Drum" href="http://www.thedrum.co.uk/news/2011/05/09/21308-guinness-launches-its-first-iphone-ad-campaign/">created the campaign</a> as part of their ongoing digital marketing remit.</p> 
+<p>Paul Cornell, marketing manager, for Guinness at Diageo GB, <a title="eConsultancy" href="http://econsultancy.com/uk/press-releases/5585-guinness-reveals-its-first-uk-iad-to-help-customers-discover-more-life-in-the-dark">explains</a>:</p> 
+<blockquote><p>We want consumers to believe you have a better time with a Guinness and the new iAd helps them do that in a really engaging way. Each user has personalised content, giving every fan an experience that is unique to them. The iAd is great for raising brand awareness and engagement while consumer’s are on the move, on a platform that has become part of everyday life.<span id="more-3266"></span></p></blockquote> 
+<p>&nbsp;</p> 
+<p>By aggregating event-related data and analysing for geo-targeted metadata, idio have been able to curate thousands of pubs and events (including sports, music, and comedy), allowing each user of the iAd to have a personalised experienced based on the location of their handset. The results are delivered to the user&#8217;s iPhone through <a href="http://idioplatform.com/technology">idio&#8217;s</a> Content Decision Management API.</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/05/guinness-iad/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>The Media Briefing: AOP Nominations</title> 
+		<link>http://idioplatform.com/2011/05/the-media-briefing-aop-nominations/</link> 
+		<comments>http://idioplatform.com/2011/05/the-media-briefing-aop-nominations/#comments</comments> 
+		<pubDate>Thu, 05 May 2011 16:31:22 +0000</pubDate> 
+		<dc:creator>Francesca Houslander</dc:creator> 
+				<category><![CDATA[Company News]]></category> 
+		<category><![CDATA[Journalism]]></category> 
+		<category><![CDATA[AOP awards]]></category> 
+		<category><![CDATA[Patrick Smith]]></category> 
+		<category><![CDATA[publishing awards]]></category> 
+		<category><![CDATA[The Media Briefing]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=3223</guid> 
+		<description><![CDATA[At the AOP Digital Publishing awards, well-established sites owned by major publishing groups such as Guardian News &#38; Media, Telegraph Media Group,  IPC Media and ITV, compete with each other and new entrants for recognition by the industry. The awards have been running for 10 years, with individuals, teams, publications and companies recognised and rewarded for [...]]]></description> 
+			<content:encoded><![CDATA[<p><a href="http://idioplatform.com/2011/05/the-media-briefing-aop-nominations/aops/" rel="attachment wp-att-3258"><img src="http://idioplatform.com/wp-content/uploads/2011/05/aops.jpg" alt="" title="aops" width="181" height="139" class="alignleft size-full wp-image-3258" /></a>At the <a href="http://www.ukaop.org.uk/events/aopawards2011.obyx">AOP Digital Publishing awards</a>, well-established sites owned by major publishing groups such as Guardian News &amp; Media, Telegraph Media Group,  IPC Media and ITV, compete with each other and new entrants for recognition by the industry.</p> 
+<p>The awards have been running for 10 years, with individuals, teams, publications and companies recognised and rewarded for outstanding work during the year, across a range of areas. This year the award ceremony will take place at Roundhouse, Camden in June.</p> 
+<p><span id="more-3223"></span></p> 
+<p>Idio is happy to report that the <a href="http://www.themediabriefing.com">The Media Briefing</a> has been nominated for <strong>Independent Digital Publisher 2011, </strong>along with their Editor, <a href="http://twitter.com/#!/psmith">Patrick Smith,</a> being nominated for <strong>Digital Editorial Individual 2011</strong>.</p> 
+<p>Established in 2010 by B2B media executives Rory Brown and Neil Thackray, The Media Briefing is the real-time news and information resource for the media industry. After less than a year of operations, they are already getting major industry attention, with a successful conference on <a href="http://paywalls.themediabriefing.com/">Paywall Strategies</a> earlier in the year.</p> 
+<p>Idio has been proud to work with The Media Briefing, utilising our semantic technology to intelligently classify and curate the insight of hundreds of publishers, along with specially commissioned experts.</p> 
+<p>&nbsp;</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/05/the-media-briefing-aop-nominations/feed/</wfw:commentRss> 
+		<slash:comments>1</slash:comments> 
+		</item> 
+		<item> 
+		<title>The Way of the Brand Content Ninja</title> 
+		<link>http://idioplatform.com/2011/04/the-way-of-the-brand-content-ninja/</link> 
+		<comments>http://idioplatform.com/2011/04/the-way-of-the-brand-content-ninja/#comments</comments> 
+		<pubDate>Thu, 21 Apr 2011 16:06:42 +0000</pubDate> 
+		<dc:creator>Dini Muana</dc:creator> 
+				<category><![CDATA[Content Marketing]]></category> 
+		<category><![CDATA[Advertising]]></category> 
+		<category><![CDATA[brand content]]></category> 
+		<category><![CDATA[branded content]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=3121</guid> 
+		<description><![CDATA[To the naked eye, there isn’t much common ground between the concept of brand content and the ninja’s way of life. Example. While espionage, sabotage and assassination are nifty tricks in a ninja’s trade, they are not mandatory for brands. Still, it’s good to know that some guidelines that have been upheld for centuries by [...]]]></description> 
+			<content:encoded><![CDATA[<div id="attachment_3167" class="wp-caption alignleft" style="width: 269px"><a rel="attachment wp-att-3167" href="http://idioplatform.com/2011/04/the-way-of-the-brand-content-ninja/ninja_photographer_by_hk_bladelaw_hk-2/"><img class="size-full wp-image-3167    " title="Ninja_Photographer_by_hk_bladelaw_hk" src="http://idioplatform.com/wp-content/uploads/2011/04/Ninja_Photographer_by_hk_bladelaw_hk1.jpg" alt="" width="259" height="338" /></a><p class="wp-caption-text">photo from azconceptphoto.com</p></div> 
+<p>To the naked eye, there isn’t much common ground between the concept of brand content and the ninja’s way of life. Example. While espionage, sabotage and assassination are nifty tricks in a ninja’s trade, they are not mandatory for brands. Still, it’s good to know that some guidelines that have been upheld for centuries by the ‘stealth soldiers’ are actually totally applicable for companies today.</p> 
+<p>&nbsp;</p> 
+<p><span id="more-3121"></span></p> 
+<h4>What <em>about</em> brand content?</h4> 
+<p>More and more companies are starting to focus spend on brand content. There are many ways that this is done, and it appears, even more ways of assessing what works and what doesn’t. Advertising is and will remain an important way for brands to converse with their audience, but now there is a realization that creating content shows existing and potential customers that they’re not just a one-trick pony. This <a href="http://www.clickz.com/clickz/column/1695257/developing-diverse-brand-content-strategy">here article</a> points out the four categories of content strategies (heavily summarized below) that every brand’s ‘portfolio’ should behold, but I think it’s likelier that brands might choose a more ‘pick-n-mix’ version of a content assembly line, (in fact, idio&#8217;s own Andrew Davies recently wrote about the concept of the &#8216;<a href="http://idioplatform.com/2011/02/the-content-pyramid-and-the-huffpo/" target="_blank">Content Pyramid</a>&#8216;, which depicts the execution of a blended content strategy, incorporating aggregated, curated and authored content).</p> 
+<ul> 
+<li>Original Content - Every (successful) brand content strategy should publish some original content, created and developed by the brand. While original content can be anything from penning blog posts about the market, posting viral videos or writing product messaging, it is important to ensure that the focus is still on meeting the needs of the audience, whilst maintaining the gist of your brand message.</li> 
+<li>Co-created Content - This is a fantastic form of content creation if you want to kill two birds with one stone, (very ninja): be cost effective and broaden and diversify your existing content. Co-creation requires you to find and collaborate with people (collaboration is maybe not so ninja, but in this case necessary), who are already developing the kind of content you want your audience to see. The article gives this example: <em>‘this could be as small scale as reaching out to a star video blogger to co-develop content for the target audience, or as large scale as partnering with one of the new digital studios to develop an online video series. Either choice gets your brand in front of an aggregated audience in your target zone.’ </em>Oftentimes this can be beneficial for both sides, (probably best that it is)-you need their talent (and audience) and they need your funding. Win-win.</li> 
+<li>Curated Content - Many brands look to expand content by licensing content from other publishers, primarily video but increasingly bloggers too. Licensing fees are rarely costly, but steps should still be taken by brands to ensure that they’re tapping in creative outlets to spread a message.</li> 
+<li>User-Generated Content - Every brand wishes to include one ingredient to their content strategy: participants. The article states, correctly, ‘once you have enough content to keep your video programming fresh and relevant for your brand audience, the next step is to make sure that audience has a way of being heard.’ So more strategizing sessions need to take place on how best to utilize social media and other promotional platforms to enhance audience participation.</li> 
+</ul> 
+<p><strong> </strong></p> 
+<h4>Know your stuff. Like a ninja.</h4> 
+<p><img class="alignright" title="s" src="http://toonlet.com/render/tojosan/panelset/9153-Sabatoge_-sfull.png" alt="" width="240" height="250" /></p> 
+<p>What’s interesting about all four categories of content format is that they all firstly require one thing: know your stuff. Know your content strategy. I recently came across <a href="http://adage.com/article/cmo-strategy/case-brands-publishing-content/226923/" target="_blank">this article by Jonathon Baskin</a> that discusses what happens to brands once they’ve already established at least one of these content portfolios. It’s mostly an article that challenges brands on the level of integrity or transparency they keep in their content, something that needs delicate handling. That’s why I’m interpreting that in some ‘key guidelines’ I curated from this neat website for ninjas listing out all the rules to live by, called ‘<a href="http://fans.askaninja.com/group/arcydra/forum/topics/rules-to-live-by" target="_blank">Rules to Live By</a>’, to give an outline of what brands should think about.</p> 
+<p>In no particular order:</p> 
+<p><em>Ninja Rule #6 – Do nor harbour hatred for thy enemy.<br /> 
+</em>You need to ‘let people disagree’. In other words, no censorship, no editing, no moulding the conversations. Baskin states that brands need to tolerate disagreements and misunderstandings, in order for your message to not be denigrated by giving your audience a false sense of brand prosperity. It’s just not cool.</p> 
+<p><em>Ninja Rule #16 &#8211; Don&#8217;t fight if you don&#8217;t know what you’re fighting abo</em>ut.<br /> 
+This is simple. Know your content, know your audience, but more importantly, know what you’re about. Even if your upcoming brand content is veering toward syndicated blogging, a musical Youtube clip every week or something, always maintain a scope in the kind of content you’re pushing out to your audience, because otherwise they’ll call your bluff. This can also run in conjunction with&#8230;</p> 
+<p><em>Ninja Rule #41. If you suck, then quit</em></p> 
+<p>‘Perhaps you should stick to the products and services about which you&#8217;re qualified to speak, and allow independent people and communities to separate the wheat from the chaff.’</p> 
+<p><em>Ninja Rule #110. Misunderstanding breeds distrust.</em><br /> 
+Baskin is very firm on saying that having the most advanced technology as a tool doesn’t mean you broadcast just anything with it. ‘Make your brand a relentless source of factual data’. If you get careless and let questionable or inaccurate content slip through the cracks and onto a user’s screen, their trust in you will decrease exponentially.</p> 
+<p><em>Ninja Rule #291.The more elaborate your communication, the less you communicate.</em></p> 
+<p><em> </em>This is so relevant but so easy to slip up in. Keep it simple, informative, and, (in moderation), fun. Don’t let your user wade through your content and drown in it. That’s no help to anyone.</p> 
+<p><em>Ninja Rule #292. It&#8217;s essential to give your arguments impact.</em></p> 
+<p>‘Everyone has a bias and ulterior motive, so you can assume that every participant starts with distrust and disbelief…If you insert your brand as a participant in this process, don&#8217;t you become just another voice that can be doubted?’ This is your brand content. It’s your responsibility to ensure that borrowed, shared or original content packs a punch and instantly shows the audience the kind of topics and motifs you represent.</p> 
+<p><em>Ninja Rule #256.The world is changing, be sure to change with it.</em><br /> 
+‘Actively encourage independent debates. The logic of new media suggests that a greater number of conversations will get to truthful conclusions quicker.’ The other extreme of Ninja Rule #6, but equally important. Do your homework, and make sure your content is continuously relevant.</p> 
+<p>The bottom line is that no matter the industry or scope, brands need to become more vigilant in any content they&#8217;re subjecting the audience to. There&#8217;s no room for slacking off even if you&#8217;re licensing content; it&#8217;s all supposed to represent your brand and the more accurate/concise/customer-centred your content, the more your audience will thank you for it.</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/04/the-way-of-the-brand-content-ninja/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>Citizen Journalism or Really Community Curation?</title> 
+		<link>http://idioplatform.com/2011/04/citizen-journalism-or-really-community-curation-2/</link> 
+		<comments>http://idioplatform.com/2011/04/citizen-journalism-or-really-community-curation-2/#comments</comments> 
+		<pubDate>Mon, 18 Apr 2011 08:32:59 +0000</pubDate> 
+		<dc:creator>Dini Muana</dc:creator> 
+				<category><![CDATA[Journalism]]></category> 
+		<category><![CDATA[citizen journalism]]></category> 
+		<category><![CDATA[community curation]]></category> 
+		<category><![CDATA[Facebook]]></category> 
+		<category><![CDATA[Social media]]></category> 
+		<category><![CDATA[Twitter]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=2953</guid> 
+		<description><![CDATA[‘What is journalism?’ is probably a very elementary but necessary question to ask right now. In the olden times of pre-2000, what made it easy for people to distinguish between respected journalists and ‘filler’ journalists used to be the sheer quality of reporting they delivered; solid investigations, probing questions and impressive sources. Today, the nature [...]]]></description> 
+			<content:encoded><![CDATA[<p><img class="alignleft" title="Citizen Journalism" src="http://www.brainstuck.com/wp-content/uploads/2008/10/citizen-journalism-400x336.jpg" alt="" width="320" height="269" /></p> 
+<p>‘What is journalism?’ is probably a very elementary but necessary question to ask right now. In the olden times of pre-2000, what made it easy for people to distinguish between respected journalists and ‘filler’ journalists used to be the sheer quality of reporting they delivered; solid investigations, probing questions and impressive sources. Today, the nature of all those factors has changed. This video titled &#8216;<a href="http://www.youtube.com/watch?v=TSwlqSwwqvQ" target="_blank">The Rise and Fall of the TV Journalist</a>’ really encapsulates this. It’s a little bit old-school, a little bit more critical in its review of the profession, but some key observations really flesh out what is going on today.</p> 
+<p><strong><span id="more-2953"></span>Cutting out the middleman</strong><br /> 
+In the video, it’s pointed out there was a time in TV journalism where journalists turned to the audience to help them out a little bit. Citizen journalism was born. CNN does this with great aplomb on TV and online now: their iReport features users from literally all over the world; they help shape reports on the ground, with the additional necessities of photographs, eyewitness accounts, mobile video footage, etc. This has been emulated by print newspapers and news magazines as well. With most online editions come blank canvases inviting users to move from readers to participators. On top of that, for anyone with so much as a dial-up connection, this has been made easier just by the sheer shareability link between social media platforms, accessible news websites, and the user.</p> 
+<p>Still, there are some areas of contention. Citizen (or public) journalism is one of those gray areas that no one really wants to hash out, mostly because it’s so easily encouraged or criticized. Although today anyone can pretty much be a ‘citizen’ contributor, the liability comes when the integrity of a news feed (whatever its format) comes under fire. Journalists are, after all, supposed to ‘tell us what the world is like’; but in today’s sharing-crazed outlook, it seems there can be tendencies toward those trusty old sidekicks, Copy and Paste. Ultimately, modern citizen journalists seem to be more like ‘content curators’. The former might collect, report and disseminate information, but content curators will be able to do all that on a far larger scale than before.</p> 
+<p><strong>A community that works together, curates together?</strong><br /> 
+Some think that the ‘open democracy’ would never make it in the long run: like the video touched on, there was a vicious cycle of journalists looking to citizens, who, despite all their best local-news contributions, were looking to journalists to do their job of explaining the world to us. On top of that, much criticism rises up against not just citizen journalism, but any websites or online destinations that <a href="http://www.journalism.co.uk/news-commentary/-citizen-journalism-start-ups-are-doomed-/s6/a531398/" target="_blank">try and turn user-generated news into a business model</a>; citizen journalists will –rightly- want to be paid for stories that are selling, yet such news engines will be too cash-strapped for that kind of exchange.</p> 
+<p>Too true. I recently wrote up a post on a report that discussed <a href="http://idioplatform.com/2011/03/business-journalists-riding-the-social-media-wave/" target="_blank">how business journalists were riding the social media wave</a>. What we learn there is still applicable here: social media is the common denominator for both journalists and citizens. This is why the term ‘community curation’ is probably a more perfect union portraying how journalists are becoming like citizens and citizens can still tap into their inner Anderson Cooper. The emphasis is on the fact that online, the scope of what journalists and citizens can work with is exponentially greater than just local coverage (for amateurs) and incapacity to be on-site of breaking news all the time (for professionals). Even journalists have their own Facebook page, such as New York Times journalist Nicholas D. Kristof, whose 208,760+ fans receive hourly updates of his reportings. <a href="http://www.marketwire.com/press-release/Journalists-Use-Social-Media-Is-Surging-According-2nd-Annual-Middleberg-SNCR-Survey-1119595.htm" target="_blank">This article</a> also demonstrates how community exchange is affecting journalism: Of a study of 341 journalists, nearly 80% believed bloggers were becoming important opinion-shapers, with one respondent pointing out something very interesting: &#8220;S<em>ocial media is changing the profession. It has enhanced the dialogue between audience and writer and expanded the scope of those who can participate in disseminating news</em>.&#8221;</p> 
+<p><strong>A couple of examples:</strong></p> 
+<p><strong><img class="alignright" title="Citizen Journalism" src="http://www.webtvwire.com/wp-content/uploads/2009/01/citizen_journalist.jpg" alt="" width="270" height="238" /></strong>Still, this is a fairly new testing ground. Different things are working for different people. For example, in the central Indian state of Chhattisgarh, there is a unique <a href="http://www.editorandpublisher.com/Magazine/look-ahead-citizen-journalism-tribal-style-64218-.aspx" target="_blank">‘half Twitter, half telephone’ system</a> of citizen journalism in a tribal community where 80 million Adivasi are able to access state and national news by the minute. Three professional journalists moderate, verify, edit and then publish the news that is called in or tweeted by citizens.</p> 
+<p>The booming landscape of community curation is only compounded further by sheer evidence of its effects and how it is indeed shaping journalism. It’s the reason why everyone remembers where they were on September 11, or Boxing Day 2004, or last month when Japan suffered a triple blow that put Hollywood to shame. Almost real-time footage and reports flooding in were rapidly uploaded but filtered enough through a tunnel system of readers and viewers so that in the end, we have a pretty accurate idea of what happened.</p> 
+<p>Now the interesting thing is that community curation has increasingly branched out into new arenas. This year’s ripple effect of Middle Eastern and North African revolutions were testimony to how people are taking social media as more than just news and more than just a mouthpiece. Suddenly we see a woman not only take a social network to &#8216;report&#8217; on a stand against the government, but we see the <a href="http://ibnlive.in.com/news/facebook-post-that-sparked-egypt-revolution/142328-2.html" target="_blank">community respond back and address a 30-year old problem</a>. Just over two weeks later, a dictator steps down. These kind of cause and effects are incredibly hard to ignore.</p> 
+<p><strong>Facebook = A social newspaper?</strong></p> 
+<p>Interestingly, Zuckerburg might be thinking a few steps ahead. <a href="http://mashable.com/2011/02/27/facebooks-growing-role-in-social-journalism/" target="_blank">An article in February</a> implied that a Facebook-only news organization could be in the works. This really shows the incredible speed at which things are taking shape (or retaking shape); where Twitter was and still is a favorite form of sharing tidbit journalism, it&#8217;s no doubt that the community curators are definitely looking on to Facebook&#8217;s increasing utility and application. After all, as far as community goes, this particular one is 500 million strong and growing. The article also mentions that the company is making concerted efforts to &#8216;directly work with journalists by providing training and resources&#8217;, which would explain the new opening for their &#8216;Journalist Program Manager&#8217; position. <em>[Note: Just checked again, position's been filled so they're probably serious]</em>. Even before Facebook headquarters&#8217; intention to expand this idea though, it seems some were already getting the ball rolling. While some groups were formed as an appendage to original websites, <a href="http://www.helpareporter.com/" target="_blank">Helpareporter.com</a> was actually formed from the <a href="http://www.facebook.com/HelpAReporter" target="_blank">original Facebook group</a>, intended to connect reporters and audiences to find out stories, sources and generate leads.</p> 
+<p>The plot thickens though. Apparently Facebook is spreading its wings towards Washington too, <a href="http://www.bbc.co.uk/journalism/blog/2011/03/how-facebook-sells-itself-in-w.shtml" target="_blank">spending almost $500,000 a year on lobbying with 2 lobbyists</a> in place in the capital. The company &#8216;shows politicians what it does and helps journalists&#8230;develop new forms of storytelling&#8217;. That is one big stage to perform your show-and-tell on. Again, this reveals a lot about how even huge organizations recognize that news reporting and the profession of journalism isn&#8217;t growing old, but getting one heck of  a makeover.</p> 
+<p>It&#8217;s evident that the concept of community curation is being taken very seriously, and bigger things are expected to branch out of existing technology and communities that are themselves ever-changing. At the end of the day, it&#8217;s important to see the truth in what someone deemed as one of the rules of using Facebook for journalism, but can be applicable to the concept of community journalism in general:  <em>&#8220;the community won’t share with you unless you’ve shared with them.&#8221;</em></p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/04/citizen-journalism-or-really-community-curation-2/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>idio and The Guardian partner to develop content discovery service</title> 
+		<link>http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/</link> 
+		<comments>http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/#comments</comments> 
+		<pubDate>Tue, 12 Apr 2011 09:58:03 +0000</pubDate> 
+		<dc:creator>Charles Dalton-Moore</dc:creator> 
+				<category><![CDATA[Client Spotlight]]></category> 
+		<category><![CDATA[Company News]]></category> 
+		<category><![CDATA[Newspapers]]></category> 
+		<category><![CDATA[Personalisation]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=2906</guid> 
+		<description><![CDATA[The Guardian is leading the development of a YouView and Android prototype service designed to help consumers discover TV and video content. The media brand has partnered with business innovation agency Golant Media Ventures, customer intelligence business Idio and music metadata experts Decibel, after securing funding from the UK’s Technology Strategy Board. The partners will [...]]]></description> 
+			<content:encoded><![CDATA[<p>The Guardian is leading the development of a YouView and Android prototype service designed to help consumers discover TV and video content.</p> 
+<p>The media brand has partnered with business innovation agency Golant Media Ventures, customer intelligence business Idio and music metadata experts Decibel, after securing funding from the UK’s Technology Strategy Board.</p> 
+<p>The partners will now develop a multiplatform system that will “pour Guardian content” into an app that will direct visitors to a variety of rich content aggregated from TV, film and music rights holders.</p> 
+<p><span id="more-2906"></span></p> 
+<p>For example, a feature on food could link through to a variety of cookery-related TV shows. The platform, dubbed the Film Ancillary Revenues Optimisation Engine (Faroe), is also likely to be licensed to content owners internationally to allow them to build their own versions.</p> 
+<p>No firm commercial business models have yet been established for the service, which is still at a research stage. Development is likely to start in May. The aim is to help producers and distributors increase the amount of money they can generate from their content via multiplatform channels.</p> 
+<p>Tom Jackson, director of digital agency for The Guardian, said there was an opportunity to leverage its brand and content archive across connected devices. “We’re trying to show how we can use metadata in a more intelligent way to cross-link different types of content,” he said.</p> 
+<p>Golant Media chief executive Patrick Towell said: “The TV industry is obsessed with navigation via an EPG but online, people browse and discover content in a different way. We want to bring the way the semantic web works to television, with rights holders given a share of the revenues generated.”</p> 
+<p>In March, Guardian News &amp; Media was appointed as one of 16 content providers to the YouView advisory board. The publisher is also understood to be working on a separate YouView project.</p> 
+<p>(Source: <a href="http://www.broadcastnow.co.uk/news/multi-platform/guardian-service-to-link-consumers-to-tv-content/5025924.article">http://www.broadcastnow.co.uk/news/multi-platform/guardian-service-to-link-consumers-to-tv-content/5025924.article</a>)</p> 
+<p><a rel="attachment wp-att-2909" href="http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/guardian-logo/"><img class="alignnone size-medium wp-image-2909" title="guardian logo" src="http://idioplatform.com/wp-content/uploads/2011/04/guardian-logo-300x53.jpg" alt="" width="300" height="53" /></a></p> 
+<p><a rel="attachment wp-att-2910" href="http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/decibel-logo/"><img class="alignnone size-full wp-image-2910" title="decibel-logo" src="http://idioplatform.com/wp-content/uploads/2011/04/decibel-logo.png" alt="" width="244" height="135" /></a></p> 
+<p><a rel="attachment wp-att-2911" href="http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/youview-logo/"><img class="alignnone size-medium wp-image-2911" title="youview-logo" src="http://idioplatform.com/wp-content/uploads/2011/04/youview-logo-300x87.gif" alt="" width="300" height="87" /></a></p> 
+<p><a rel="attachment wp-att-2912" href="http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/golant-logo/"><img class="alignnone size-medium wp-image-2912" title="golant-logo" src="http://idioplatform.com/wp-content/uploads/2011/04/golant-logo-300x69.jpg" alt="" width="300" height="69" /></a></p> 
+<p><a rel="attachment wp-att-2914" href="http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/idio_logo_300dpi_white_big/"><img title="idio_logo_300dpi_white_big" src="http://idioplatform.com/wp-content/uploads/2011/04/idio_logo_300dpi_white_big-300x189.png" alt="" width="300" height="189" /></a></p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/04/idio-and-the-guardian-partner-to-develop-content-discovery-service/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>idio @ Congility 2011 Conference</title> 
+		<link>http://idioplatform.com/2011/04/idio-congility-2011-conference/</link> 
+		<comments>http://idioplatform.com/2011/04/idio-congility-2011-conference/#comments</comments> 
+		<pubDate>Wed, 06 Apr 2011 17:05:52 +0000</pubDate> 
+		<dc:creator>Dini Muana</dc:creator> 
+				<category><![CDATA[Company News]]></category> 
+		<category><![CDATA[conference]]></category> 
+		<category><![CDATA[congility]]></category> 
+		<category><![CDATA[content agility]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=2879</guid> 
+		<description><![CDATA[idio&#8217;s Andrew Davies will be speaking at Congility 2011, which is being hosted between May 24-26 in Gatwick . The event will be bringing together content professionals looking to advance their organisation&#8217;s goals with better content strategy, management and process. Congility&#8217;s catchphrase is &#8216;Today&#8217;s Content Needs Agility&#8217;. For idio, this is synonymous to the system we&#8217;ve built; making [...]]]></description> 
+			<content:encoded><![CDATA[<p>idio&#8217;s Andrew Davies will be speaking at Congility 2011, which is being hosted between May 24-26 in Gatwick . The event will be bringing together content professionals looking to advance their organisation&#8217;s goals with better content strategy, management and process. Congility&#8217;s catchphrase is &#8216;Today&#8217;s Content Needs Agility&#8217;.</p> 
+<p>For idio, this is synonymous to the system we&#8217;ve built; making sense out of large, unstructured content and conversations, and repurposing it all seamlessly based on customer and business goals. We recognize it when we see marketplaces in transition, and we place emphasis on improving our core platform through a variety of means, including the kind of content management dialogue that will occur in Congility 2011.</p> 
+<p><span id="more-2879"></span></p> 
+<p>Congility is for anyone participating in the content lifecycle wanting to deliver better content, for a lower cost, and more tailored to their users’ various needs. It is the only European platform bringing together such a diverse set of content experts and learning opportunities under one roof. Workshops and conference access is limited. Register early to save your spot! <a href="http://www.congility.com/">http://www.congility.com</a> @congility.</p> 
+<p>For the idio followers who&#8217;d like to attend the event, there is a special Speakers&#8217; Network 50% discount on entry to Congility 2011 Conference, (excluding workshops). The code is valid until May 1st on a first-come-first served basis. If you are NOT the first registrant, the code will still get you discounted entry, but the % will depend on how long before the conference the code has been used, so best act fast! Use <a href="http://www.congility.com/forms/ca_speaker_network_reg" target="_blank">this link</a> to register!<img class="alignnone size-full wp-image-2881" title="congility2011-wide-banner-ad-610x130" src="http://idioplatform.com/wp-content/uploads/2011/04/congility2011-wide-banner-ad-610x130.jpg" alt="" width="549" height="117" /></p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/04/idio-congility-2011-conference/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>Superstar Digital Marketing Intern</title> 
+		<link>http://idioplatform.com/2011/04/superstar-digital-marketing-intern/</link> 
+		<comments>http://idioplatform.com/2011/04/superstar-digital-marketing-intern/#comments</comments> 
+		<pubDate>Wed, 06 Apr 2011 11:26:53 +0000</pubDate> 
+		<dc:creator>Dini Muana</dc:creator> 
+				<category><![CDATA[Company News]]></category> 
+		<category><![CDATA[internship]]></category> 
+		<category><![CDATA[Marketing]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=2871</guid> 
+		<description><![CDATA[Digital Marketing Intern Free lattes. Office toys include AR Drones, football and a poker table that also transforms into an Ultimate Ping Pong table. Located in Exeter. idio is a marketing technology specialist that connects and structures content and customer data in real-time, to enable trusted &#38; measurable customer relationships that help large brands and publishers. We [...]]]></description> 
+			<content:encoded><![CDATA[<h4>Digital Marketing Intern</h4> 
+<p><em>Free lattes. Office toys include AR Drones, football and a poker table that also transforms into an Ultimate Ping Pong table. Located in Exeter.</em></p> 
+<p>idio is a marketing technology specialist that connects and structures content and customer data in real-time, to enable trusted &amp; measurable customer relationships that help large brands and publishers.</p> 
+<p>We build industry-leading technology solutions that automate content marketing, social media monitoring and marketing, relationship-building, and insight generation. We are growing fast.</p> 
+<p><span id="more-2871"></span></p> 
+<p><img title="About_pic" src="http://idioplatform.com/wp-content/uploads/2010/10/About_pic1.jpg" alt="About_pic" width="483" height="225" /></p> 
+<p>As an intern, you will be involved and gaining experience in a range of work on a daily basis:</p> 
+<ul> 
+<li>Researching and collating for industry reports and documents</li> 
+<li>Editorial work for major brand clients and idio</li> 
+<li>Analysis of customer interaction data</li> 
+<li>Digital marketing strategy</li> 
+<li>Client account management</li> 
+</ul> 
+<p>This is only an indicative list, as you could be working on multiple projects simultaneously.</p> 
+<p>Additional information:</p> 
+<ul> 
+<li>Ideally, we&#8217;re looking for someone with a degree in marketing/business and an interest in digital.</li> 
+<li>They should be able to meet deadlines, manage own time efficiently, and work very quickly.</li> 
+<li>Basic bursary to help with costs is provided.</li> 
+<li>The internship is flexible, covering a 2-3 month period from May-Sept.</li> 
+<li>A full-time, paid role would be offered in September following good performance.</li> 
+</ul> 
+<p>We are a <a title="Team" href="http://idioplatform.com/about/team/" target="_blank">close-knit team</a>, working in a nice office in Southernhay, Exeter, with a growing list of multi-national clients. We also have a London office that you might need to visit. We don’t work for objectionable clients or on dead-end projects. We are continually experimenting with new ideas in and around the publishing and marketing industries, and are very analytics focused and data-driven. We work in a fast-paced environment, and you will find that no two days are the same.</p> 
+<p>If, on top of the above, you love intelligent debate, music, and coffee from the Boston Tea Party, then email us immediately!</p> 
+<p>To find out more, please send us your CV and, more importantly, links or attachments of previous work to dini.muana@idioplatform.com or message @dinimuana on Twitter.</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/04/superstar-digital-marketing-intern/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+		<item> 
+		<title>Business Journalists Riding the Social Media Wave</title> 
+		<link>http://idioplatform.com/2011/03/business-journalists-riding-the-social-media-wave/</link> 
+		<comments>http://idioplatform.com/2011/03/business-journalists-riding-the-social-media-wave/#comments</comments> 
+		<pubDate>Wed, 23 Mar 2011 12:56:28 +0000</pubDate> 
+		<dc:creator>Dini Muana</dc:creator> 
+				<category><![CDATA[Journalism]]></category> 
+ 
+		<guid isPermaLink="false">http://idioplatform.com/?p=2602</guid> 
+		<description><![CDATA[&#8220;News is like food: it is the cooking and serving that makes it acceptable, not the material itself.&#8221; – Rose Macaulay The role and scope of a journalist today have certainly changed dramatically from what it was 50, 30, even 10 years ago. This report on the use of social media among business journalists highlights the [...]]]></description> 
+			<content:encoded><![CDATA[<h4>&#8220;<em>News is like food: it is the cooking and serving that makes it acceptable, not the material itself.</em>&#8221; – Rose Macaulay</h4> 
+<p>The role and scope of a journalist today have certainly changed dramatically from what it was 50, 30, even 10 years ago. <a href="http://www.politico.com/static/PPM153_social.html" target="_blank">This report</a> on the use of social media among business journalists highlights the speed at which journalists across the world have adapted to this new frontier.</p> 
+<p><img class="alignleft" title="Journalism Awards" src="http://looklinklove.com/wp-content/uploads/2009/07/social-media-pulitzer.jpg" alt="" width="336" height="272" /></p> 
+<p>The study was based on responses from 1,082 business journalists from more than 35 countries, (mostly in North America, UK and mainland Europe, but journalists from Asia pacific, the Gulf region and rest of the world were also involved). Half of those surveyed were of editorial ranking, but reporters, correspondents and freelancers were also included. The main picture we get is: journalists are overall supportive of the way social media has been reshaping the landscape, but different methods of application certainly exist.</p> 
+<p><span id="more-2602"></span></p> 
+<h4>In which ways and to what extents are journalists using social media?</h4> 
+<p><span style="font-weight: normal;">Let&#8217;s take a look at one of the stats graphs (below) from the report. While the report hints that journalists still ‘rely on traditional information sources’ it’s probably safe to say that primary research accounting for only 24% of information sources last year is hardly a winning majority for traditional journalism. Social networking sites (Facebook, Linked In, etc.) are quite popular at 32%, but first place for Most Important Source of the Year, at 43%, actually goes to blogs and microblogs (and by the latter, you can’t get any more micro than the 140 characters-bound Twitter facility). It’s impressive to see that the garnering of information from online sources is now almost twice as much as previously treasured ones, like printed business media, (only 7%), information directly from companies, 21%, and even online business media at 25%. This is really interesting, because it reveals that it’s not just the sheer accessibility or data richness of the Internet that makes the statistics so high for some, but rather an indication that more journalists appreciate instant, almost real-time data and reaction feedback from the online community.</span></p> 
+<p><span style="font-weight: normal;"> </span></p> 
+<div id="attachment_2650" class="wp-caption alignnone" style="width: 566px"><a rel="attachment wp-att-2650" href="http://idioplatform.com/2011/03/business-journalists-riding-the-social-media-wave/graph-2/"><img class="size-full wp-image-2650    " title="Brunswich Research (p.3)" src="http://idioplatform.com/wp-content/uploads/2011/03/Graph3.jpg" alt="" width="556" height="316" /></a><p class="wp-caption-text">Brunswich Research (p.3)</p></div> 
+<p>&nbsp;</p> 
+<p>The impact of these new communications tools has done much more than just impress journalists into embracing social media. The survey included asking business journalists if they’d ever been prompted by blogs to write a story. An incredible 74% said they had indeed, although only 47% carried the story to the end. Despite this number, most journalists said that social media does <em>not</em> inspire the major proportion of their stories, with only 2% saying that it does. Only an even smaller percentage-so small it’s unnumbered on the pie chart-said that social media inspired ‘almost all’ their stories. In which case, are these actual journalists? Or professional copy-and-pasters? On the other hand, adding to the interesting mix are the 33% who say that none of their stories are sources from social media. Again, are these actual journalists? Or modern hermits? Jokes aside, it’s starting to look very obvious the many but diverse ways in which social media tools are embraced, wielded and cast aside by professionals in this industry.</p> 
+<p>The true measure of the permeance of social media into journalism can probably be seen in how much journalists consider it as a valuable information source. Even though blogs rank the highest source of inspiration for stories, when it comes to the most valuable source of information, it was the Twitter machine that received the highest votes at 28% of sources, followed by Linked In (26%), blogs (18%), and Facebook, (17%). Interestingly, news sites scored only 3%, (talk about collapsing business models) and Youtube fell to the bottom of the rank, at 1%. Ironically, it’s hard to ignore that many online news engines have Youtube videos depicting event footage embedded within its stories, certainly a feature in journalism that’s evolved.</p> 
+<p>These stats do run concurrently though with the fact that half of all business journalists surveyed said that they tweet, are active in social networking sites and write blogs. Only one in five post on message boards. This is hardly surprising. Frankly, message boards are the cave drawings of this new era: pretty non-diverse in terms of topics and ever so dated. It’s easy to see why journalists would, like anybody else, favour the incredible speed and variation of information that is hotwiring across spaces like the Twittersphere.</p> 
+<h4>Geography:</h4> 
+<p>The report though in that it indicated some interesting figures in what the growth of social media in journalism means geographically. For example, take blogs, including the mini versions like Twitter, where the UK, at 47%, and North America, at the leading 51%, each surpass the rest of the world (excluding mainland Europe) which is at 43%. Social networking sites rank second among journalist sources but still lower for each of these regions: North America at 37%, the UK at 34% and the world minus mainland Europe at 32%. The low rate of some European countries compared to the others in the West can partially be explained by a tight control held by reigning governments, (Italy’s <a href="http://www.ejc.net/media_landscape/article/italy/  " target="_blank">Berlosconi’s ownership</a> included 3 national television stations and 40 magazines).</p> 
+<h4>What are the positives and drawbacks for journalists with this?</h4> 
+<p>The report also asked journalists what they thought about the future importance of social media on the angle or content of stories; an incredible 72% agreed that social media would play an ‘increasingly important’ role. But! On the impact of social media on the quality of written stories, only 37% said it’s been a positive experience and with a 52% majority resting on an elusive ‘neutral’. For such a big crowd in the current social media party, it sure raises questions about the integrity of journalism in the long run. On a side note, the question perhaps really should be ‘What kind of journalists account for the 5% who actually answered ‘don’t know’ in each pie graph?’ <em>What are they doing?</em> What doubts do they have that suggest such serious potential problems?</p> 
+<p>Geographically, one thing is for sure; the impact of social media on quality of written stories is considered ‘positive’ by North American journalists who once again take the biggest slice of the pie (chart) with 44%, while everyone else ranges from 30-38%.</p> 
+<p>All these changes in the collective outlook of journalists help explain at least partially why the journalism business model has been reinventing itself for a while now, (‘Paywall is to journalism as Iron Curtain is to Cold War’ etc.) Interestingly, while social media have been a major common denominator steering this, the stats for the use of actual social media monitoring is shockingly minimal. 92% of all business journalists don’t use any social media monitoring tools like Radian6 and Nielsen’s Buzzmetrics to track content in the social media sphere, and an even more befuddling 91% of journalists whose stories originated from social media don’t either.</p> 
+<p>Surely there is some correlation between the fact that the majority of journalists remain dubious that social media play a positive role in <em>long-term</em> story value and the fact that NINETY-TWO percent don’t use monitoring tools? Hmm. Not to stress too much on this, but as <a href="http://bfranklinjournalism.wordpress.com/category/uncategorized/  " target="_blank">this place</a> likes to churn out, ‘You can’t develop good editorial content for your media outlet without knowing how to “commit journalism.”’</p> 
+<p>Marketwire did a <a href="http://www.marketwire.com/press-release/Journalists-Use-Social-Media-Is-Surging-According-2nd-Annual-Middleberg-SNCR-Survey-1119595.htm" target="_blank">similar survey</a> on a smaller scale with just about the same ratio of results. One of them, when asked for a comment about social media’s remoulding of the profession, answered, ‘It is full of peril and promise’. That it is.</p> 
+<p>Although, thanks to social media, we can also write articles that make things so much more fun for readers by using snazzy hyperlinks like <a href="http://twenty-somethingtravel.com/wp-content/uploads/2010/08/haters_gonna_hate.gif" target="_blank">this</a>, and <a href="http://www.theonion.com/articles/rich-guy-feeling-left-out-of-recession,17181/" target="_blank">this</a>, and most importantly <a href="http://zoomquilt2.madmindworx.com/zoomquilt2.swf" target="_blank">this</a>&#8230;</p> 
+]]></content:encoded> 
+			<wfw:commentRss>http://idioplatform.com/2011/03/business-journalists-riding-the-social-media-wave/feed/</wfw:commentRss> 
+		<slash:comments>0</slash:comments> 
+		</item> 
+	</channel> 
+</rss>
