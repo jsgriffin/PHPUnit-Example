@@ -21,11 +21,11 @@ class Importer {
 				
 		foreach($objFeed->get_items() as $intKey => $objFeedItem) {
 			$arrArticle = array(
-				"title"			=> $this->_convertToUTF8($objFeedItem->get_title()),
-				"source_url"    => $this->_convertToUTF8($objFeedItem->get_permalink()),
-				"content"		=> $this->_convertToUTF8(strip_tags($objFeedItem->get_content())),
+				"title"			=> $this->_convertToUtf8($objFeedItem->get_title()),
+				"source_url"    => $this->_convertToUtf8($objFeedItem->get_permalink()),
+				"content"		=> $this->_convertToUtf8(strip_tags($objFeedItem->get_content())),
 				"datestamp"		=> strtotime($objFeedItem->get_date("Y-m-d H:i:s")),
-				"author"		=> $this->_convertToUTF8($objFeedItem->get_author()->get_name())
+				"author"		=> $this->_convertToUtf8($objFeedItem->get_author()->get_name())
 			);
 
 			$arrArticles[] = array(
@@ -41,7 +41,7 @@ class Importer {
 	 *
 	 * @param String strContent The content to convert
 	 */
-	protected function _convertToUTF8($strContent) {
+	protected function _convertToUtf8($strContent) {
 	    $strContent = str_replace("and#", "&#", $strContent);
 	    $strContent = html_entity_decode($strContent);
 	    $mxdEncoding = mb_detect_encoding($strContent);

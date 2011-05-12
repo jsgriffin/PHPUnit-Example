@@ -1,8 +1,13 @@
 <?php
 
 require_once("../../libs/simplepie.php");
-require_once("../../classes/importer_3.php");
+require_once("../../classes/importer.php");
 
+/**
+ * A suite of tests for the Importer class
+ * 
+ * @author James Griffin
+ */
 class ImporterTest extends PHPUnit_Framework_TestCase {
 	protected $arrArticles;
 	
@@ -63,6 +68,10 @@ class ImporterTest extends PHPUnit_Framework_TestCase {
 			$this->assertEquals(strip_tags($arrArticle['Article']['content']), $arrArticle['Article']['content']);
 		}
 	}
+	
+	/******************************************************************************************
+	 We should also be testing the _convertToUtf8 function, and anything else the importer does
+	 ******************************************************************************************/
 }
 
 ?>

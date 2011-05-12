@@ -16,6 +16,8 @@ class Importer {
 	
 	/**
 	 * Takes raw XML data and extracts any articles from it.
+	 * This works as a finite-state machine, reading each character from the input in turn
+	 * and deciding what to do with it. 
 	 *
 	 * @param String xmlData The raw XML data
 	 * @return Array arrArticles
@@ -100,13 +102,22 @@ class Importer {
 		}
 
 		foreach($arrArticles as $intKey => $arrArticle) {
-			$arrArticles[$intKey]['Article']['content'] = strip_tags($arrArticle['Article']['content']);
+			$arrArticles[$intKey]['Article']['content'] = $this->_convertToUtf8(strip_tags($arrArticle['Article']['content']));
+			$arrArticles[$intKey]['Article']['title'] = $this->_convertToUtf8($arrArticle['Article']['title']);
+			$arrArticles[$intKey]['Article']['author'] = $this->_convertToUtf8($arrArticle['Article']['author']);
+			$arrArticles[$intKey]['Article']['source_url'] = $this->_convertToUtf8($arrArticle['Article']['source_url']);
 			$arrArticles[$intKey]['Article']['datestamp'] = strtotime($arrArticle['Article']['datestamp']);
 		}
 
 		return $arrArticles;	
 	}
 	
+	/**
+	 * Finds the offset from the current position of the close of the current tag
+	 *
+	 * @param String xmlData The XML data string
+	 * @param Integer intStart The current position of the read head
+	 */
 	protected function _findCloseOfTag($xmlData, $intStart) {
 		$k = 0; 
 		while($xmlData[$intStart + $k] != '>') { $k++; }
@@ -118,7 +129,7 @@ class Importer {
 	 *
 	 * @param String strContent The content to convert
 	 */
-	protected function _convertToUTF8($strContent) {
+	protected function _convertToUtf8($strContent) {
 	    $strContent = str_replace("and#", "&#", $strContent);
 	    $strContent = html_entity_decode($strContent);
 	    $mxdEncoding = mb_detect_encoding($strContent);
